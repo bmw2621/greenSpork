@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Cinnamon Bun",
+        "price": 5.00,
+        "image": "cb.jpg",
+        "description": "Deliciously Gluten-Free Cinnamon Bun"
+    },
+    {
+        "name": "Brownie",
+        "price": 3.00,
+        "image": "brownie.jpg",
+        "description": "Deliciously Gluten-Free Brownie"
+    },
+    {
+        "name": "Cupcake",
+        "price": 1.50,
+        "image": "cupcake.jpg",
+        "description": "Deliciously Gluten-Free Cupcake"
+    }
+]
